@@ -1,8 +1,8 @@
 {
     "name": "Pepe",
     "prefix": "pepe_",
-    "type": "webp",
-    "icon": "cute",
+    "type": "png",
+    "icon": "king",
     "items": [
         "monkas",
         "badut",
